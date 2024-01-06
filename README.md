@@ -1,7 +1,9 @@
 # GSP NETWORKS TOPOLOGY
 
 Employees in each branch
-![Alt text](Capture2.JPG)
+![Employees](employees.JPG)
 
 Requirements
-![Alt text](Capture2-1.JPG)
+![Requirements](requirements.JPG)
+
+Final Topology
